@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section id="one" >
+<!-- <section id="one" >
     <div class="container">
         {% for post in site.posts limit:1 %}
             <article>
@@ -20,7 +20,7 @@ layout: default
             </article>
         {% endfor %}
     </div>
-</section>
+</section> -->
 <section>
     <div class="container">
         <div class="features">
@@ -31,7 +31,7 @@ layout: default
                     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
                 </header>
                 
-                    {{ post.content | truncatewords: 30 }}
+                    {{ post.content | truncatewords: 7 }}
                 </section>
                 <footer>
                     <ul class="actions">
