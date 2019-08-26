@@ -1,14 +1,6 @@
 ---
 layout: post
 ---
-
-
-
-
-
-
-
-
-
-Hi, my name is YU Jingyi(俞景昳). I am an undergraduate majoring in Computer Science and intersted in pure mathematics and programming language. Now I live in Wuhan(武汉), befor that I lived in Hangzhou(杭州) for 18 years.
+Hi 我的名字是俞景昳。我现在是一名计算机科学专业在读的大三学生，对纯数和程序语言非常感兴趣。
+现在我居住在武汉，在这之前，我于杭州居住了18年。
 <!-- <img src="/images/aboutme.jpg"> -->
