@@ -2,6 +2,7 @@
 layout: post
 title:  "海不说话"
 categories: update
+excerpt_separator: 不过转念想到自己的家乡，
 ---
 1
 关于海，我是描绘不出它的美的，因为海不说话，一点也不透露讯息给我。

@@ -24,14 +24,15 @@ layout: default
 <section>
     <div class="container">
         <div class="features">
-        {% for post in site.posts offset:1 %}
+        {% for post in site.posts %}
             <article>
                 <section class="excerpt">
                 <header>
                     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
                 </header>
                 
-                    {{ post.content | truncatewords: 7 }}
+                    <!-- {{ post.content | truncatewords: 7 }} -->
+                     <p>{{ post.excerpt }}</p>
                 </section>
                 <footer>
                     <ul class="actions">
