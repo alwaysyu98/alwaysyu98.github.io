@@ -2,6 +2,7 @@
 layout: post
 title:  "一份会持续更新的书单"
 categories: update
+top: true
 excerpt_separator: 
 ---
  
