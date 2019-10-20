@@ -58,8 +58,8 @@ layout: default
                 <div class="clear"></div>
             </article>
                 {% continue %}
-            {% endif %}
-        {% if post.top != true and post.lock != true %}
+        {% elsif post.arichive %}
+        {% elsif post.top != true %}
             <article>
                 <section class="excerpt">
                 <header>
@@ -76,7 +76,7 @@ layout: default
                 </footer>
                 <div class="clear"></div>
             </article>
-            {% endif %}
+        {% endif %}   
         {% endfor %}
         </div>
     </div>
