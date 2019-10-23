@@ -10,3 +10,5 @@ excerpt_separator:
 
 
 ***Episode1:  [猫小姐的烦恼 by海豹](/update/2019/10/21/Novel_Archive1.html)***
+
+***Episode2:  [海豹收到了一份礼物 by海豹](/update/2019/10/22/Novel_Archive2.html)***
