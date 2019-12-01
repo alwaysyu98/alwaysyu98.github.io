@@ -10,6 +10,14 @@
 		font-size: 11pt;
 	}
 
+	section p {
+		font-size: 13pt;
+	}
+
+	header p {
+		font-size: 11pt;
+	}
+
 /* Header */
 
 	#header {
