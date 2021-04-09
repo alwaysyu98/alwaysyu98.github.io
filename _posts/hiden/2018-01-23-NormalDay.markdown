@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "今天是多年之后的平凡的一天"
-categories: update
+hiden: true
 excerpt_separator: 罢了，还是现
 ---
  

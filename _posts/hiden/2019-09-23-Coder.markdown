@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "写代码的人"
-categories: update
+hiden: true
 excerpt_separator: 
 ---
 

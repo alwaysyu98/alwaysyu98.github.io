@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "拙译Beautiful Things"
-categories: update
+hiden: true
 lock: true
 excerpt_separator: beautiful things that
 ---

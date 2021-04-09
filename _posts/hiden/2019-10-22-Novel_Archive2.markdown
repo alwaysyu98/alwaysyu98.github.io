@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "海豹收到了一份礼物"
-categories: update
+hiden: true
 arichive: true
 excerpt_separator: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "闲的话就会胡思乱想"
-categories: update
+hiden: true
 lock: true
 excerpt_separator: 
 ---

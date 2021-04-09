@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "拙译Shine On"
-categories: update
+hiden: true
 lock: true
 excerpt_separator: No competin
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "校庆引起的各种念想"
-categories: update
+hiden: true
 excerpt_separator: 进去的时候没有
 ---
  

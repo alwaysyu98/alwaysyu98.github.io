@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "下定决心的时候"
-categories: update
+hiden: true
 lock: true
 excerpt_separator: 2018.8.22 20:35
 ---

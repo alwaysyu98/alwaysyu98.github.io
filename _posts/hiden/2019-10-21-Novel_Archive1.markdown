@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "猫小姐的烦恼"
-categories: update
+hiden: true
 arichive: true
 excerpt_separator: 
 ---

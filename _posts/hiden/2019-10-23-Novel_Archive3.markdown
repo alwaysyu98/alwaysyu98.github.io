@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "海豹与猫小姐的初次相遇"
-categories: update
+hiden: true
 arichive: true
 excerpt_separator: 
 ---

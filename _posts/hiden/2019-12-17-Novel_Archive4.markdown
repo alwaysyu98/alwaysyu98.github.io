@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "海豹好像有一肚子想说的话"
-categories: update
+hiden: true
 arichive: true
 excerpt_separator: 
 ---

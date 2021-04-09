@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "猫小姐和海豹"
-categories: update
+hiden: true
 excerpt_separator: 
 ---
 
